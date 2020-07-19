@@ -3,7 +3,8 @@
 
 # HTMLcolourchange 
 
-A short HTML/Javascript code to change the background colour. Possible uses include testing web pages with certain backgrounds.
+A short HTML/Javascript code to change the background colour. 
+Possible uses include testing web pages with certain backgrounds.
 
 ```html
 <span style="color:#e6261f;" onclick="document.body.style.backgroundColor='#e6261f';">●</span>
