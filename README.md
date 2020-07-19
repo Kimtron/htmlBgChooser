@@ -3,7 +3,12 @@
 # Welcome to htmlBgChooser!
 
 A short HTML/Javascript code to change the background colour. 
+
 Possible uses include testing web pages with certain backgrounds.
+
+# Installation
+
+Simply paste wherever you need to test your colours!
 
 ```html
 <span style="color:#e6261f;" onclick="document.body.style.backgroundColor='#e6261f';">●</span>
