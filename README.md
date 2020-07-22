@@ -10,6 +10,11 @@ Possible uses include testing web pages with certain backgrounds.
 
 Simply paste wherever you need to test your colours!
 
+# Pro Tip
+
+Notepad and Notepad++: trl+H to find the instance of the colour eg. (#e6261f), type your hex i(with '#' in "Replace").
+*This may work in many text based editors*
+
 ```html
 <span style="color:#e6261f;" onclick="document.body.style.backgroundColor='#e6261f';">●</span>
 <span style="color:#eb7532;" onclick="document.body.style.backgroundColor='#eb7532';">●</span>
