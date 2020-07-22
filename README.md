@@ -15,7 +15,7 @@ Simply paste wherever you need to test your colours!
 ## Notepad and Notepad++: 
 1. Ctrl+H to find the instance of the colour. *eg. (#e6261f)*
 2. Type your hex (with '#') in "Replace".
-3. Hit "Replace All" to replace the templace code with your own colours!
+3. Hit "Replace All" to replace the template code with your own colours!
 
 *This may work in many text based editors*
 
