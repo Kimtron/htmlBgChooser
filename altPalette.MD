@@ -5,7 +5,7 @@ This palette contains pure hex codes (eg: fff, 000, aaa).
 
 I like to think of pure hex codes as codes that contain even/sensical hex patterns.
 
-### Tip: A shortcut for using black, white and other pure hex codes is '#fff', '#000' etc.
+Tip: A shortcut for using black, white and other pure hex codes is '#fff', '#000' etc.
 
 ***
 black: #000000;
